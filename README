@@ -1,0 +1,8 @@
+These codes explain how to realize K-Means Clustering algorithm in Hadoop.
+They are achieved by Python and Hadoop streaming.
+You run this program in Linix by typing:
+for locale
+$ ./localJob.sh
+for Hadoop
+$ ./hadoopJob.sh
+Just for fun
